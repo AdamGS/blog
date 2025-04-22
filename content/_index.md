@@ -13,6 +13,6 @@ I currently work for [Spiral](https://spiraldb.com/), mostly focused on [Vortex]
 
 - [Github](https://github.com/AdamGS)
 - [Bluesky](https://bsky.app/profile/adamg.computer)
-- [Twitter](https://x.com/adamm_gs) (thankfully, less than I used to)
+- [Twitter](https://twitter.com/adamm_gs) (thankfully, less than I used to)
 - [Linkedin](https://www.linkedin.com/in/adam-gutglick-641675222/)
 - [lobste.rs](https://lobste.rs/~adamgs)
