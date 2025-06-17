@@ -7,7 +7,7 @@ host some random written thoughts.
 
 I'm a software engineer, originally from Israel and currently in London.
 
-I currently work for [Spiral](https://spiraldb.com/), mostly focused on [Vortex](https://github.com/spiraldb/vortex), a new columnar file format for modern workloads.
+I currently work for [Spiral](https://spiraldb.com/).
 
 ## Other places I exist online
 
